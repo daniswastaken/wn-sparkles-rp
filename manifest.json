@@ -4,7 +4,7 @@
         "name": "§l§b[Why Not] §r§fSparkles§r",
         "description": "Adds a nice sparkles particles effect for players.",
         "uuid": "3661c1f7-771b-4157-8d7b-25588df55e2b",
-        "version": [1, 0, 1],
+        "version": [1, 0, 0],
         "min_engine_version": [1, 26, 20]
     },
     "metadata": {
@@ -15,7 +15,7 @@
             "description": "Sparkles Resource Pack Module",
             "type": "resources",
             "uuid": "5cbcdb01-efac-4d6c-b294-9d658dcf0edf",
-            "version": [1, 0, 1]
+            "version": [1, 0, 0]
         }
     ],
     "capabilities": [
@@ -24,7 +24,7 @@
     "dependencies": [
         {
             "uuid": "1fc1f9c8-6577-43fc-b909-61ba683519cb",
-            "version": [1, 0, 1]
+            "version": [1, 0, 0]
         }
     ]
 }
